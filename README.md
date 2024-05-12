@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Qaiser Farooq and I'm a Software Developer from Pakistan </h2>
+![image](https://github.com/Qaiserfarooq285/Qaiserfarooq285/assets/118597629/a4a23a0a-6cf6-46d0-a34a-fd9eb263fc22)<h2 align="left">Hi 👋! My name is Qaiser Farooq and I'm a Software Developer from Pakistan </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://miro.medium.com/v2/resize:fit:786/format:webp/1*MmLp2x6cMbr27HdRI9OSTg.gif)"  />
 
 ###
 
